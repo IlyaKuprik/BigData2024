@@ -1,3 +1,5 @@
 /.vscode
 /main
-/random_numbers.bin
+random_numbers.bin
+random_numbers.txt
+__pycache__
