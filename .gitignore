@@ -4,3 +4,4 @@ random_numbers.bin
 random_numbers.txt
 __pycache__
 wiki.txt
+*.csv
